@@ -1,5 +1,3 @@
-Markdown
-
 
 # 🔍 Leitor de Texto Nativo (Snipping OCR)
 
